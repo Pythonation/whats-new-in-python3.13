@@ -185,6 +185,7 @@ print(calculate_inverse("hello"))  # يُرفع TypeError
 بايثون 3.13 مليئة بالتحسينات! شاركنا برأيك في التعليقات.
 
 <center>
-[![شاهد الفيديو](https://img.youtube.com/vi/DE77J_HIixo/0.jpg)](https://youtu.be/DE77J_HIixo)
-
+  <a href="https://youtu.be/DE77J_HIixo">
+    <img src="https://img.youtube.com/vi/DE77J_HIixo/0.jpg" alt="شاهد الفيديو">
+  </a>
 </center>
