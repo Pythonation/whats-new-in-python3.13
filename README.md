@@ -71,11 +71,11 @@ print(f"Time taken: {end_time - start_time:.2f} seconds")
 
 **متطلبات بناء JIT على ويندوز:**
 
-- **Visual Studio 2019 (أو أحدث) مع حزمة تطوير ++C و Windows SDK:**  [تحميل Visual Studio](https://visualstudio.microsoft.com/vs/) (تأكد من تحديد حزمة تطوير  C++ و Windows 10 SDK أثناء التثبيت).  أثناء التثبيت، ابحث عن "Desktop development with C++" و "Windows 10 SDK".
+- ** ـ Visual Studio 2019 (أو أحدث) مع حزمة تطوير ++C و Windows SDK:**  [تحميل Visual Studio](https://visualstudio.microsoft.com/vs/) (تأكد من تحديد حزمة تطوير  C++ و Windows 10 SDK أثناء التثبيت).  أثناء التثبيت، ابحث عن "Desktop development with C++" و "Windows 10 SDK".
 
-- **LLVM/Clang 19:** [تحميل LLVM](https://releases.llvm.org/download.html) (اختر الإصدار المناسب لنظام التشغيل الخاص بك - Windows).  تأكد من اختيار الإصدار 19 specifically.  بعد التحميل، قم بفك الضغط، ثم أضف مسار مجلد `bin` (على سبيل المثال: `C:\LLVM\bin`) إلى متغيرات بيئة نظامك.
+- **ـLLVM/Clang 19:** [تحميل LLVM](https://releases.llvm.org/download.html) (اختر الإصدار المناسب لنظام التشغيل الخاص بك - Windows).  تأكد من اختيار الإصدار 19 specifically.  بعد التحميل، قم بفك الضغط، ثم أضف مسار مجلد `bin` (على سبيل المثال: `C:\LLVM\bin`) إلى متغيرات بيئة نظامك.
 
-- **Git:** [تحميل Git](https://git-scm.com/downloads)
+- **ـGit:** [تحميل Git](https://git-scm.com/downloads)
 
 
 **ملاحظات مهمة:**
