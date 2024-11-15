@@ -1,10 +1,9 @@
 
 # بايثون 3.13: كل ما هو جديد ومثير!
 <center>
-<div style="text-align: center;">
   <a href="https://youtu.be/DE77J_HIixo">
-    <img src="https://img.youtube.com/vi/DE77J_HIixo/0.jpg" alt="شاهد الفيديو" style="display: block; margin-left: auto; margin-right: auto; width: 560px;"> </a>
-</div>
+    <img src="https://img.youtube.com/vi/DE77J_HIixo/0.jpg" alt="شاهد الفيديو">
+  </a>
 </center>
 
 ## القسم الأول: مترجم تفاعلي مُحسّن (REPL)
